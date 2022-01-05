@@ -1,0 +1,13 @@
+body {
+  font-family: Helvetica;
+  color: rgb(151, 151, 151);
+  background-color:rgb(35, 35, 35);
+  font-size:   30x;
+  text-align:  center;
+  padding-top: 2em;
+  padding-bottom: 4em;
+  padding-left: 2em;
+  padding-right: 2em;
+  border: 10px solid rgb(67, 67, 67);
+
+}
